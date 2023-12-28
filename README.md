@@ -1,4 +1,4 @@
-The repository includes a number of custom Jupyter notebook (Python) codes for regression-type model estimation.
+The repository includes a number of custom Jupyter notebook (Python) codes for regression-type model estimation with maximum likelihood.
 Some examples are linear regression, logit model, mixed logit model, nested logit model, hybrid choice model and others.
 All notebooks have detailed instructions and examples on how to run every code.
 To run the codes, you will need Jupyter notebook (I suggest installing Anaconda).
