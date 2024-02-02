@@ -3,5 +3,8 @@ Some examples are linear regression, logit model, mixed logit model, nested logi
 All notebooks have detailed instructions and examples on how to run every code.
 To run the codes, you will need Jupyter notebook (I suggest installing Anaconda).
 The codes present the process of model estimation with basic steps. The overall process is based only on the use of basic Python packages.
+
 Licence: The codes are open and free to use. Please acknowledge the repository when using.
+
 Contact: Please check my profile details.
+
