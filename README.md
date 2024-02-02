@@ -8,3 +8,4 @@ Licence: The codes are open and free to use. Please acknowledge the repository w
 
 Contact: Please check my profile details.
 
+Feel free to contact me if you find any bugs in the codes! :)
